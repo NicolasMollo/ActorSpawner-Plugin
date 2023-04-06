@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ActorSpawner.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Nicol\OneDrive\Desktop\MyTest\Intermediate\Build\Win64\MyTestEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Nicol\OneDrive\Desktop\MyTest\Plugins\ActorSpawner\Intermediate\Build\Win64\UE4Editor\Development\ActorSpawner\ActorSpawner.cpp.obj"
+"C:\Users\Nicol\OneDrive\Desktop\MyTest\Plugins\ActorSpawner\Intermediate\Build\Win64\UE4Editor\Development\ActorSpawner\Default.rc2.res"
+/OUT:"C:\Users\Nicol\OneDrive\Desktop\MyTest\Plugins\ActorSpawner\Intermediate\Build\Win64\UE4Editor\Development\ActorSpawner\UE4Editor-ActorSpawner.lib"

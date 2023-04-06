@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "ActorSpawner",
+	"Description": "Plugin that spawns some actors if a blueprint is selected in the editor",
+	"Category": "Other",
+	"CreatedBy": "Nicolas Mollo",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "ActorSpawner",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

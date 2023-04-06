@@ -1,0 +1,6 @@
+C:\Users\Nicol\OneDrive\Desktop\MyTest\Plugins\ActorSpawner\Intermediate\Build\Win64\UE4Editor\Development\ActorSpawner\Definitions.ActorSpawner.h
+C:\Users\Nicol\OneDrive\Desktop\MyTest\Plugins\ActorSpawner\Source\ActorSpawner\Public\ActorSpawner.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistry/AssetRegistryModule.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistry/IAssetRegistry.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Misc/AssetRegistryInterface.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AssetRegistry\IAssetRegistry.generated.h
